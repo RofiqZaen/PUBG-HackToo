@@ -13,7 +13,6 @@
 
 ❕ follow the steps below 
 
-if a Resource Not Found error occurs, click icon  ≡  and click Restore All and download Resources again.
 
 Step 1.
 If the Resource and Data Hack status is not found, please click icon ≡ and Download Resources.
@@ -30,6 +29,9 @@ Activate anti-banned and click the start button.
 After entering the lobby, activate the bypass lobby and activate the hack feature in Training or on the island.
 
 And the final step is to enable anti-report on the plane.
+
+
+❗ If a Resource Not Found error occurs, click icon  ≡  and click Restore All and download Resources again.
 
 
 
