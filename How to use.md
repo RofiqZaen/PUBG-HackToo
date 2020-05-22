@@ -24,12 +24,12 @@ Enable vpn hosts and select the hosts file in the directory /storage/emulated/0/
 
 Step 3.
 Back to application HackTool and swipe from right to left or click the icon  ⋮  to choose the PUBG you are playing.
-Activate anti-banned and click the start button.
+Activate anti-banned and click the floating, tick PUBG for open.
 
 After entering the lobby, activate the bypass lobby and activate the hack feature in Training or on the island.
 
+Step 4.
 And the final step is to enable anti-report on the plane.
-
 
 ❗ If a Resource Not Found error occurs, click icon  ≡  and click Restore All and download Resources again.
 
@@ -37,4 +37,4 @@ And the final step is to enable anti-report on the plane.
 
 
 
-	Copyright @2020 app Rofiq Zaen | Indonesia
+Copyright @2020 INDONESIA | app Rofiq Zaen.
