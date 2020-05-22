@@ -31,10 +31,22 @@ After entering the lobby, activate the bypass lobby and activate the hack featur
 Step 4.
 And the final step is to enable anti-report on the plane.
 
+
+
 ❗ If a Resource Not Found error occurs, click icon  ≡  and click Restore All and download Resources again.
 
 
+do this step every time you start playing.
+
+if there is an update from TENCENT stop using HACK TOOL, please wait for the resource update from HACK TOOL.
+
+
+Thank you..
+Rofiq Zaen
 
 
 
-Copyright @2020 INDONESIA | app Rofiq Zaen.
+
+   INDONESIA
+App Rofiq Zaen
+Copyright @2020
